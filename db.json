@@ -1,0 +1,47 @@
+{
+  
+  "Sell": [
+    {
+      "houseNo": "432",
+      "imageUrl": "https://th.bing.com/th?id=OIP.t5Ul933v6D7nqYT0oQ9FJQHaEh&w=320&h=195&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2",
+      "houseSpecification": "3bhk, 2000 SqFt",
+      "price": "40lakhs",
+      "videoUrl": "https://www.youtube.com/embed/osOslGw550g",
+      "id": 4
+    },
+    {
+      "houseName": "house3",
+      "imageUrl": "https://th.bing.com/th/id/OIP.eGEjH20hAzpISo3PrKTvogHaEK?w=282&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "houseSpecification": "4BHK, 4000SqFt ,15 cent Land",
+      "price": "70 lakhs",
+      "videoUrl": "https://www.youtube.com/embed/zumJJUL_ruM",
+      "id": 5
+    }
+  ],
+  "favourite": [
+    {
+      "imageUrl": "https://th.bing.com/th?id=OIP.t5Ul933v6D7nqYT0oQ9FJQHaEh&w=320&h=195&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2",
+      "houseSpecification": "3bhk, 2000 SqFt",
+      "price": "40lakhs",
+      "videoUrl": "https://www.youtube.com/embed/osOslGw550g",
+      "id": 1
+    },
+    {
+      "houseName": "home12",
+      "imageUrl": "https://www.bing.com/th?id=OIP.eR3q8s1G3D-8tsZLurwzogHaHa&w=153&h=135&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2",
+      "houseSpecification": "3BHK, 3000Sq.feet, 10 cent Land",
+      "price": "80lakhs",
+      "videoUrl": "https://www.youtube.com/embed/kacyaEXqVhs",
+      "id": 3
+    },
+    {
+      "houseName": "house3",
+      "imageUrl": "https://th.bing.com/th/id/OIP.eGEjH20hAzpISo3PrKTvogHaEK?w=282&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "houseSpecification": "4BHK, 4000SqFt ,15 cent Land",
+      "price": "70 lakhs",
+      "videoUrl": "https://www.youtube.com/embed/zumJJUL_ruM",
+      "id": 5
+    }
+  ]
+  
+}
